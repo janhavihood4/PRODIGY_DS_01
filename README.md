@@ -1,2 +1,2 @@
 # PRODIGY_DS_01
-Project of Variable Distribution Visualization using python
+Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
